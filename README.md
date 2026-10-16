@@ -26,7 +26,7 @@
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| **[Guía Simple de Archivo](https://github.com/ElizondoAngel/guia-archivo)** | Sistema de gestión documental que digitaliza la guía de archivo institucional de la UTN Neza. Login sin contraseña por OTP, CRUD completo, historial de auditoría, reportes con filtros, exportación a Excel/PDF, dashboard con gráficas y adjuntos con control de acceso por roles. | PHP 8, MySQL, Bootstrap 5, Chart.js, Dompdf |
+| **Guía Simple de Archivo** | Sistema de gestión documental que digitaliza la guía de archivo institucional de la UTN Neza. Login sin contraseña por OTP, CRUD completo, historial de auditoría, reportes con filtros, exportación a Excel/PDF, dashboard con gráficas y adjuntos con control de acceso por roles. | PHP 8, MySQL, Bootstrap 5, Chart.js, Dompdf |
 | **Sistema de Recursos Humanos UTN** | Plataforma de RH en producción con portal administrativo y portal de empleados. Login por OTP, envío masivo de correos con combinación de datos y PDFs adjuntos, verificación de documentos por código QR con hash SHA-256 y control de acceso por roles. | PHP 8, MariaDB, Apache |
 | **RehabControl** | Sistema de gestión para clínicas de fisioterapia, diseñado con enfoque en seguridad: clasificación de datos, roles y aviso de privacidad conforme a la LFPDPPP. | Next.js, Supabase, Tailwind, Vercel |
 | **ChatBot UTN** | Asistente virtual institucional con IA local. Cuatro roles con vistas propias y prompts personalizados por rol, desplegado en servidor Ubuntu. | Laravel, Ollama (Llama 3), MariaDB |
