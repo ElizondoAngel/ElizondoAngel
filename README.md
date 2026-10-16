@@ -13,10 +13,17 @@
 
 ---
 
-### 🛠️ Herramientas y frameworks
+### 🛠️ Herramientas
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,git,github,laravel,nextjs,react,tailwind,bootstrap,supabase,mysql,vercel,anaconda,arduino,linux&perline=8" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,git,github,supabase,mysql,vercel,anaconda,arduino,linux&perline=11" />
+  </a>
+</p>
+
+### 🖥️ Frameworks
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,nextjs,react,tailwind,bootstrap&perline=8" />
   </a>
 </p>
 
