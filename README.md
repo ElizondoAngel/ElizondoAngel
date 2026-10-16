@@ -52,6 +52,6 @@
 
 ### 📫 Contacto
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:TU-CORREO@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="[https://www.linkedin.com/in/TU-USUARIO](https://www.linkedin.com/in/angel-eduardo-elizondo-sandoval-95562b288/)"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:aelizondo1002@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
