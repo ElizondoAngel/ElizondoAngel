@@ -55,9 +55,9 @@
 
 | Habilidad | En la práctica |
 |---|---|
-| 🧭 **Liderazgo de equipos** | Asumo el rol de líder en los proyectos académicos y de desarrollo, coordinando al equipo de principio a fin |
-| 📋 **Delegación de tareas** | Distribuyo el trabajo según las fortalezas de cada integrante para avanzar en paralelo |
-| ⏱️ **Planeación y gestión de tiempos** | Defino cronogramas y fechas de entrega, y doy seguimiento al avance para cumplir a tiempo |
+| 🧭 **Liderazgo de equipos** | Líder técnico en **RehabControl**: levanté la base del proyecto con Next.js, Supabase y Tailwind, configuré el repositorio en GitHub y coordiné al equipo de principio a fin |
+| 📋 **Delegación de tareas** | Dividí RehabControl en módulos y los asigné según las fortalezas de cada integrante para avanzar en paralelo |
+| ⏱️ **Planeación y gestión de tiempos** | Armé el cronograma del proyecto con fechas de entrega por módulo y di seguimiento al avance para cumplir a tiempo |
 | 🎤 **Comunicación y exposición** | Soy el expositor del equipo: presento proyectos y resultados ante profesores, compañeros y usuarios |
 | 🧩 **Resolución de problemas** | Diagnostico y resuelvo fallas en sistemas en producción bajo presión |
 
