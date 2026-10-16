@@ -55,9 +55,10 @@
 
 | Habilidad | En la práctica |
 |---|---|
-| 🧭 **Liderazgo de equipos** | Líder técnico en **RehabControl**: levanté la base del proyecto con Next.js, Supabase y Tailwind, configuré el repositorio en GitHub y coordiné al equipo de principio a fin |
-| 📋 **Delegación de tareas** | Dividí RehabControl en módulos y los asigné según las fortalezas de cada integrante para avanzar en paralelo |
-| ⏱️ **Planeación y gestión de tiempos** | Armé el cronograma del proyecto con fechas de entrega por módulo y di seguimiento al avance para cumplir a tiempo |
+| 🧭 **Liderazgo de equipos** | He sido el líder en la mayoría de mis proyectos: **RehabControl, Sistema de RH UTN, Guía Simple de Archivo, ChatBot UTN y la Plataforma de Alfabetización** (proyecto de titulación TSU), coordinando al equipo de principio a fin |
+| 🏗️ **Arranque técnico de proyectos** | Levanto la base de cada proyecto con las tecnologías adecuadas, configuro el repositorio en GitHub y defino la estructura de trabajo para el equipo |
+| 📋 **Delegación de tareas** | Divido los proyectos en módulos y los asigno según las fortalezas de cada integrante para avanzar en paralelo |
+| ⏱️ **Planeación y gestión de tiempos** | Armo cronogramas con fechas de entrega por módulo y doy seguimiento al avance para cumplir a tiempo |
 | 🎤 **Comunicación y exposición** | Soy el expositor del equipo: presento proyectos y resultados ante profesores, compañeros y usuarios |
 | 🧩 **Resolución de problemas** | Diagnostico y resuelvo fallas en sistemas en producción bajo presión |
 
