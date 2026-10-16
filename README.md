@@ -50,6 +50,9 @@
 
 ---
 
+| 🇺🇸 Inglés | **B2 · Intermedio alto** — Evaluación Voxy (Bécalos English Challenge, 2025) · Programa de Inglés como Lengua Extranjera (UTN Neza, 2025) |
+<img src="https://img.shields.io/badge/English-B2_Upper_Intermediate-0366d6?style=for-the-badge" />
+---
 ### 📫 Contacto
 <p align="center">
   <a href="https://www.linkedin.com/in/angel-eduardo-elizondo-sandoval-95562b288/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
