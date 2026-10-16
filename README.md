@@ -8,7 +8,7 @@
 ### 🚀 Sobre mí
 - 💻 Desarrollo web full-stack y apps móviles (Android, Wear OS y Android TV)
 - 🏫 Desarrollo sistemas reales para la UTN Neza que hoy usan áreas administrativas
-- 🤖 Aprendiendo Python e Inteligencia Artificial en **Samsung Innovation Campus 2026**
+- 🤖 Aprendiendo Python e Inteligencia Artificial en **Samsung Innovation Campobsidian://open?vault=Red%20-%20Angel&file=Campus%20Samsung%202026%2FClases%2Fimagenes%2FPasted%20image%2020261015184424.pngus 2026**
 - ☁️ Certificado en Oracle Cloud Infrastructure
 
 ---
@@ -49,9 +49,39 @@
 | 🧠 Samsung Innovation Campus 2026 — Python e IA | Samsung · UDEM | *En curso* |
 
 ---
+---
 
-| 🇺🇸 Inglés | **B2 · Intermedio alto** — Evaluación Voxy (Bécalos English Challenge, 2025) · Programa de Inglés como Lengua Extranjera (UTN Neza, 2025) |
-<img src="https://img.shields.io/badge/English-B2_Upper_Intermediate-0366d6?style=for-the-badge" />
+### 🤝 Habilidades blandas
+
+| Habilidad | En la práctica |
+|---|---|
+| 🧭 **Liderazgo de equipos** | Asumo el rol de líder en los proyectos académicos y de desarrollo, coordinando al equipo de principio a fin |
+| 📋 **Delegación de tareas** | Distribuyo el trabajo según las fortalezas de cada integrante para avanzar en paralelo |
+| ⏱️ **Planeación y gestión de tiempos** | Defino cronogramas y fechas de entrega, y doy seguimiento al avance para cumplir a tiempo |
+| 🎤 **Comunicación y exposición** | Soy el expositor del equipo: presento proyectos y resultados ante profesores, compañeros y usuarios |
+| 🧩 **Resolución de problemas** | Diagnostico y resuelvo fallas en sistemas en producción bajo presión |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Liderazgo-⭐-f39c12?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gestión_de_tiempos-⏱️-27ae60?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Oratoria-🎤-8e44ad?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trabajo_en_equipo-🤝-2980b9?style=for-the-badge" />
+</p>
+
+---
+
+### 🌐 Idiomas
+
+| Idioma | Nivel |
+|---|---|
+| 🇲🇽 Español | Nativo |
+| 🇺🇸 Inglés | **B2 · Intermedio alto**: evaluación Voxy (Bécalos English Challenge, 2025) · Programa de Inglés como Lengua Extranjera (UTN Neza, 2025) |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Español-Nativo-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/English-B2_Upper_Intermediate-0366d6?style=for-the-badge" />
+</p>
+
 ---
 ### 📫 Contacto
 <p align="center">
