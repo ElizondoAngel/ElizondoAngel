@@ -51,7 +51,7 @@
 ---
 
 | 🇺🇸 Inglés | **B2 · Intermedio alto** — Evaluación Voxy (Bécalos English Challenge, 2025) · Programa de Inglés como Lengua Extranjera (UTN Neza, 2025) |
-| <img src="https://img.shields.io/badge/English-B2_Upper_Intermediate-0366d6?style=for-the-badge" />. |
+<img src="https://img.shields.io/badge/English-B2_Upper_Intermediate-0366d6?style=for-the-badge" />
 ---
 ### 📫 Contacto
 <p align="center">
