@@ -13,10 +13,17 @@
 
 ---
 
-### 🛠️ Lenguajes y herramientas
+### 🛠️ Herramientas y frameworks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,py,php,js,ts,html,css,mysql,laravel,nextjs,react,tailwind,bootstrap,supabase,vercel,androidstudio,idea,vscode,git,github,arduino,anaconda,linux&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,git,github,laravel,nextjs,react,tailwind,bootstrap,supabase,mysql,vercel,anaconda,arduino,linux&perline=8" />
+  </a>
+</p>
+
+### 💻 Lenguajes
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,py,php,js,ts,html,css&perline=8" />
   </a>
 </p>
 
