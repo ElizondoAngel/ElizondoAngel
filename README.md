@@ -8,7 +8,7 @@
 ### 🚀 Sobre mí
 - 💻 Desarrollo web full-stack y apps móviles (Android, Wear OS y Android TV)
 - 🏫 Desarrollo sistemas reales para la UTN Neza que hoy usan áreas administrativas
-- 🤖 Aprendiendo Python e Inteligencia Artificial en **Samsung Innovation Campobsidian://open?vault=Red%20-%20Angel&file=Campus%20Samsung%202026%2FClases%2Fimagenes%2FPasted%20image%2020261015184424.pngus 2026**
+- 🤖 Aprendiendo Python e Inteligencia Artificial en **Samsung Innovation Campus 2026**
 - ☁️ Certificado en Oracle Cloud Infrastructure
 
 ---
